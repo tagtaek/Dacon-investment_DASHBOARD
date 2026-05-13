@@ -1,0 +1,6 @@
+label,group,memo,score,metric
+alpha,A,first row,10,1000
+beta,B,second row,12,1500
+gamma,A,third row,,1300
+delta,C,manual review needed,18,2500
+epsilon,B,late update,21,

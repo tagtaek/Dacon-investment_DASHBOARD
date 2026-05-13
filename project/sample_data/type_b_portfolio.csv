@@ -1,0 +1,7 @@
+ticker,weight,sector
+AAPL,35%,Technology
+MSFT,25%,Technology
+NVDA,18%,Technology
+JPM,8%,Financials
+JNJ,7%,Healthcare
+KO,7%,Consumer Staples
