@@ -19,7 +19,7 @@ import {
   ZAxis,
 } from 'recharts';
 
-const API_URL = 'http://163.180.117.216:8000/analyze';
+const API_URL = 'https://dacon-investment-dashboard.onrender.com';
 const COLORS = ['#168a71', '#2563eb', '#f59e0b', '#dc2626', '#7c3aed', '#0f766e', '#be123c', '#4b5563'];
 
 function App() {
