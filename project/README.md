@@ -46,7 +46,7 @@ API:
 - `POST /analyze`
 - form-data field: `file`
 
-The frontend API URL is intentionally unchanged: `http://163.180.117.216:8000/analyze`.
+The frontend API URL is intentionally unchanged: `https://dacon-investment-dashboard.onrender.com`.
 
 ## Run Frontend
 
